@@ -9,6 +9,19 @@ A complete **Full Stack Employee Management System** built with modern technolog
 
 ---
 
+## 🔑 Demo Credentials
+
+You can use the following test account to explore the application:
+
+**👤 Employee Login**
+
+* 📧 Email: [employee123@gmail.com](mailto:employee123@gmail.com)
+* 🔒 Password: employee123
+
+> ⚠️ Note: This is a demo account with limited access for testing purposes.
+
+---
+
 ## ✨ Features
 
 * 🔐 **Role-Based Authentication**
