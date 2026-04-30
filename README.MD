@@ -4,6 +4,11 @@ A complete **Full Stack Employee Management System** built with modern technolog
 
 ---
 
+## 🌐 Live Demo  
+👉 [Click here to explore the app](https://employee-management-system-theta-six.vercel.app/login)
+
+---
+
 ## ✨ Features
 
 * 🔐 **Role-Based Authentication**
