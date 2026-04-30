@@ -55,8 +55,8 @@ A complete **Full Stack Employee Management System** built with modern technolog
 
 **Frontend:**
 
-* React.js / Next.js
-* Tailwind CSS / Bootstrap
+* React.js 
+* Tailwind CSS 
 
 **Backend:**
 
@@ -99,7 +99,7 @@ cd Employee-Management-System
 ### 2️⃣ Setup Backend
 
 ```bash
-cd backend
+cd server
 npm install
 ```
 
@@ -133,7 +133,7 @@ npm start
 Open a new terminal:
 
 ```bash
-cd frontend
+cd client
 npm install
 npm run dev
 ```
